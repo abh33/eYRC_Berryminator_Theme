@@ -92,3 +92,11 @@ The following table gives a brief overview of all the tasks of the berryminator 
 </tbody></table>
 
 </div>
+
+### Automatic Evaluation
+In this theme we implemented client side automatic evaluation. The basic idea behind this evaluation was that along with task documentation and instructions on how to complete each of the tasks, the students were given an **executable file (.exe)** which they had to run on their machines. This executable file took the students own written code as input and evaluated it according to the parameters specified. For eg. in Task 3 navigation, the robot was required to traverse a randomly generated set of checkpoints. The executable generated these checkpoints and also during the robot traversal evaluated if the robot was able to visit all checkpoints or not.
+
+Another interesting feature that was incorporated in the automatic evaluators was a method to measure participant engagement in the task. This was implemented using the GoogleSheets API. Everytime any participant team ran the executable file, all the data captured for evaluation (including the participant teams data) was exported to google sheet for our perusal. This sheet enabled us to monitor the teams progress and give hints and other help accordingly.
+
+#### **Project Collaborators** - Abhinav Sarkar, Shyama H, Amit Kumar, Harmanjeet Singh, Aditya Panwar
+This project was developed as one of the themes of e-Yantra Robotics Competition (eYRC-2021-22)

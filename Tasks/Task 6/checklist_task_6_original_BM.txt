@@ -1,0 +1,4 @@
+BM_<team-id>_Task_6_Original/
+BM_<team-id>_Task_6_Original/Theme_Arena.ttt
+BM_<team-id>_Task_6_Original/theme_implementation_result.txt
+BM_<team-id>_Task_6_Original/theme_implementation.py

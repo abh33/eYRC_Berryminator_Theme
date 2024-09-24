@@ -1,0 +1,8 @@
+Total number of joints:6
+Total torque required:600.0
+Total force required:0
+Mass:6.5838875026878
+Berry Detected by Team:lemon
+Berry Detected by Team:lemon
+Successfully plucked:lemon_1
+Berry Detected by Team:lemon

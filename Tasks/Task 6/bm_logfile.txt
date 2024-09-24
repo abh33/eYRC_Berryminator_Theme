@@ -1,0 +1,18 @@
+Total number of joints:6
+Total torque required:600.0 Nm
+Total force required:0N
+Mass6.5838875026878
+Berry Detected by Team- lemonSuccessfully pluckedlemon_2
+Berry Detected by Team- lemonSuccessfully pluckedlemon_1
+Berry Detected by Team- lemonSuccessfully pluckedlemon_1#0
+Berry Detected by Team- lemonSuccessfully pluckedlemon_2#0
+Berry Detected by Team- lemonSuccessfully pluckedlemon_1#1
+Berry Detected by Team- strawberrySuccessfully pluckedstrawberry_1
+Berry Detected by Team- blueberrySuccessfully pluckedblueberry_1
+Successfully droppedblueberry_1
+Successfully droppedstrawberry_1
+Successfully droppedlemon_1
+Successfully droppedlemon_2
+Successfully droppedlemon_1#0
+Successfully droppedlemon_2#0
+Successfully droppedlemon_1#1
