@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>../../../Storage/pokemon/Pokemon Calculator/berryminator.png</file>
+    <file>Workspace/Berryminator GUI Testing/Task 4 - GUI Folder/blueberry.png</file>
+    <file>Workspace/Berryminator GUI Testing/Task 4 - GUI Folder/lemon.png</file>
+    <file>Workspace/Berryminator GUI Testing/Task 4 - GUI Folder/strawberry.png</file>
+    <file>mindmap.jpg</file>
+    <file>logo_eyantra.png</file>
+    <file>../../../Storage/pokemon/Pokemon Calculator/logo_eyantra.png</file>
+  </qresource>
+</RCC>

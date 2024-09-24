@@ -22,6 +22,7 @@ To simulate an automated robot in CoppeliaSim that traverses an urban farming sc
 *The final goal of the Berryminator theme was to collect fruits from different plants placed in the simulated arena. The robot model in (b) was provided to the teams. The teams in the competition had to construct a robotic arm on top of the robot and implement the programming of the whole setup in python and lua to implement the final goal.*
 
 ### Task Description
+The following table gives a brief overview of all the tasks of the berryminator theme.
 
 <div align = "center">
 <!-- <style type="text/css">

@@ -1,0 +1,4 @@
+BM_<team-id>_Pre_Finale_Task/
+BM_<team-id>_Pre_Finale_Task/Theme_Arena.ttt
+BM_<team-id>_Pre_Finale_Task/theme_implementation_result.txt
+BM_<team-id>_Pre_Finale_Task/theme_implementation.py
