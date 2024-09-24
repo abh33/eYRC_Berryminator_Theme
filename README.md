@@ -100,3 +100,6 @@ Another interesting feature that was incorporated in the automatic evaluators wa
 
 #### **Project Collaborators** - Abhinav Sarkar, Shyama H, Amit Kumar, Harmanjeet Singh, Aditya Panwar
 This project was developed as one of the themes of e-Yantra Robotics Competition (eYRC-2021-22)
+
+### Code
+All the task related code can be found in the [Tasks](./Tasks/) folder. All the theme development related code can be found in the [Theme Implementation](./Theme_Implementation) folder.
