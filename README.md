@@ -14,8 +14,8 @@ To simulate an automated robot in CoppeliaSim that traverses an urban farming sc
 - Control Systems
 - Python and Lua Programming
 
-<div align = "center"><img src="./Images/arena.png" alt="img2" width=350> <img src="./Images/robot.png" alt="img2" width=350>
-<br><b>(a) Simulation Arena layout (Left)  (b) Robot Model used (Right) </b>
+<div align = "center"><img src="./Images/arena.png" alt="img2" width=350> &nbsp;<img src="./Images/robot.png" alt="img2" width=350>
+<br><b>(a) Simulation Arena layout (Left) &nbsp;&nbsp; (b) Robot Model used (Right) </b>
 
 </div>
 
