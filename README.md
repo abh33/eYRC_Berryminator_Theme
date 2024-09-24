@@ -21,4 +21,73 @@ To simulate an automated robot in CoppeliaSim that traverses an urban farming sc
 
 *The final goal of the Berryminator theme was to collect fruits from different plants placed in the simulated arena. The robot model in (b) was provided to the teams. The teams in the competition had to construct a robotic arm on top of the robot and implement the programming of the whole setup in python and lua to implement the final goal.*
 
+### Task Description
 
+<div align = "center">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-7btt">Task</th>
+    <th class="tg-7btt">Subtask</th>
+    <th class="tg-7btt">Description</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow">Task 0</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-0pky">Software Installation &amp; Python Coding test</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="3">Task 1</td>
+    <td class="tg-c3ow">A</td>
+    <td class="tg-0pky">Explore OpenCV</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">B</td>
+    <td class="tg-0pky">Exploring CoppeliaSim (Remote API)</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">C</td>
+    <td class="tg-0pky">Exploring CoppeliaSim (Sensors &amp; Joints)</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow" rowspan="2">Task 2</td>
+    <td class="tg-c3ow">A</td>
+    <td class="tg-0pky">Berry Detection in CoppeliaSim</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">B</td>
+    <td class="tg-0pky">Robotic Arm Design And Simulation</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Task 3</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-0pky">Navigation</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Task 4</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-0pky">Fruit Plucking and Deposit</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Task 5</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-0pky">Mini Implementation</td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow">Task 6</td>
+    <td class="tg-c3ow"></td>
+    <td class="tg-0pky">Final Theme Implementation</td>
+  </tr>
+</tbody></table>
+
+</div>
